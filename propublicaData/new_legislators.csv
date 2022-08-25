@@ -1,0 +1,21 @@
+id,first_name,last_name,party,chamber,state,district,start_date
+L000595,Julia,Letlow,R,House,LA,5,2021-04-14
+P000145,Alex,Padilla,D,Senate,CA,null,2021-01-20
+O000174,Jon,Ossoff,D,Senate,GA,null,2021-01-20
+W000790,Raphael,Warnock,D,Senate,GA,null,2021-01-20
+F000471,Scott,Fitzgerald,R,House,WI,5,2021-01-03
+F000475,Brad,Finstad,R,House,MN,1,2022-08-12
+F000474,Mike,Flood,R,House,NE,1,2022-07-12
+F000473,Mayra,Flores,R,House,TX,34,2022-06-21
+C001128,Connie,Conway,R,House,CA,22,2022-06-14
+C001127,Sheila,Cherfilus-McCormick,D,House,FL,20,2022-01-18
+C001126,Mike,Carey,R,House,OH,15,2021-11-04
+B001313,Shontel,Brown,D,House,OH,11,2021-11-04
+E000071,Jake,Ellzey,R,House,TX,6,2021-07-30
+S001218,Melanie,Stansbury,D,House,NM,1,2021-06-15
+C001125,Troy,Carter,D,House,LA,2,2021-05-11
+S001159,Marilyn,Strickland,D,House,WA,10,2021-01-03
+G000595,Robert,Good,R,House,VA,5,2021-01-03
+O000086,Burgess,Owens,R,House,UT,4,2021-01-03
+M001213,Blake,Moore,R,House,UT,1,2021-01-03
+V000134,Beth,Van Duyne,R,House,TX,24,2021-01-03

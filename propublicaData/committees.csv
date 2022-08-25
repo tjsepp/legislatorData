@@ -1,0 +1,45 @@
+id,name,chamber,url
+HSMH,Select Committee on the Modernization of Congress,House,https://modernizecongress.house.gov/
+SSAF,"Committee on Agriculture, Nutrition, and Forestry",Senate,http://www.agriculture.senate.gov/
+SSAP,Committee on Appropriations,Senate,http://www.appropriations.senate.gov/
+SSAS,Committee on Armed Services,Senate,http://www.armed-services.senate.gov/
+SSBK,"Committee on Banking, Housing, and Urban Affairs",Senate,http://banking.senate.gov/
+SSCM,"Committee on Commerce, Science, and Transportation",Senate,http://www.commerce.senate.gov/
+SSEG,Committee on Energy and Natural Resources,Senate,http://www.energy.senate.gov/
+SSEV,Committee on Environment and Public Works,Senate,http://www.epw.senate.gov/
+SSFI,Committee on Finance,Senate,http://www.finance.senate.gov/
+SSFR,Committee on Foreign Relations,Senate,http://www.foreign.senate.gov/
+SSHR,"Committee on Health, Education, Labor, and Pensions",Senate,http://www.help.senate.gov/
+SSGA,Committee on Homeland Security and Governmental Affairs,Senate,http://www.hsgac.senate.gov/
+SLIA,Committee on Indian Affairs,Senate,http://www.indian.senate.gov/
+SSRA,Committee on Rules and Administration,Senate,http://www.rules.senate.gov/
+SSSB,Committee on Small Business and Entrepreneurship,Senate,http://www.sbc.senate.gov/
+SSBU,Committee on the Budget,Senate,http://www.budget.senate.gov/
+SSJU,Committee on the Judiciary,Senate,http://www.judiciary.senate.gov/
+SSVA,Committee on Veterans' Affairs,Senate,http://www.veterans.senate.gov/
+SLET,Select Committee on Ethics,Senate,http://www.ethics.senate.gov/
+SLIN,Select Committee on Intelligence,Senate,http://www.intelligence.senate.gov/
+SPAG,Special Committee on Aging,Senate,http://www.aging.senate.gov/
+SCNC,United States Caucus on International Narcotics Control,Senate,http://www.drugcaucus.senate.gov/
+HSHA,Committee on Administration,House,https://cha.house.gov/
+HSAG,Committee on Agriculture,House,https://agriculture.house.gov/
+HSAP,Committee on Appropriations,House,https://appropriations.house.gov/
+HSAS,Committee on Armed Services,House,https://armedservices.house.gov/
+HSED,Committee on Education and Labor,House,https://edlabor.house.gov/
+HSIF,Committee on Energy and Commerce,House,https://energycommerce.house.gov/
+HSSO,Committee on Ethics,House,https://ethics.house.gov/
+HSBA,Committee on Financial Services,House,https://financialservices.house.gov/
+HSFA,Committee on Foreign Affairs,House,https://foreignaffairs.house.gov/
+HSHM,Committee on Homeland Security,House,https://homeland.house.gov/
+HSII,Committee on Natural Resources,House,https://naturalresources.house.gov/
+HSGO,Committee on Oversight and Reform,House,https://oversight.house.gov/
+HSRU,Committee on Rules,House,https://rules.house.gov/
+HSSY,"Committee on Science, Space, and Technology",House,https://science.house.gov/
+HSSM,Committee on Small Business,House,https://smallbusiness.house.gov/
+HSBU,Committee on the Budget,House,https://budget.house.gov/
+HSJU,Committee on the Judiciary,House,https://judiciary.house.gov/
+HSPW,Committee on Transportation and Infrastructure,House,https://transportation.house.gov/
+HSVR,Committee on Veterans' Affairs,House,https://veterans.house.gov/
+HSWM,Committee on Ways and Means,House,https://waysandmeans.house.gov/
+HSIG,Permanent Select Committee on Intelligence,House,https://intelligence.house.gov/
+HSCN,Select Committee on the Climate Crisis,House,

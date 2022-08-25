@@ -1,0 +1,202 @@
+id,name,committeeId
+SSCM39,"Tourism, Trade, and Export Promotion Subcommittee",SSCM
+SSCM34,"Communications, Media, and Broadband Subcommittee",SSCM
+SSCM33,"Aviation Safety, Operations, and Innovation",SSCM
+SSCM35,"Consumer Protection, Product Safety, and Data Security",SSCM
+SSCM38,"Surface Transportation, Maritime, Freight, and Ports",SSCM
+SSCM37,Space and Science Subcommittee,SSCM
+SSCM36,"Oceans, Fisheries, Climate Change, and Manufacturing",SSCM
+SSEG03,"Public Lands, Forests, and Mining Subcommittee",SSEG
+SSEG04,National Parks Subcommittee,SSEG
+SSEG07,Water and Power Subcommittee,SSEG
+SSEG01,Energy Subcommittee,SSEG
+SSEV15,"Fisheries, Wildlife, and Water Subcommittee",SSEV
+SSEV09,"Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight",SSEV
+SSEV10,"Clean Air, Climate, and Nuclear Safety Subcommittee",SSEV
+SSEV16,Green Jobs and the New Economy,SSEV
+SSEV08,Transportation and Infrastructure Subcommittee,SSEV
+SSEV18,Oversight,SSEV
+SSFI13,"International Trade, Customs, and Global Competitiveness",SSFI
+SSFI12,"Energy, Natural Resources, and Infrastructure",SSFI
+SSFI14,Fiscal Responsibility and Economic Growth Subcommittee,SSFI
+SSFI10,Health Care,SSFI
+SSFI02,"Social Security, Pensions, and Family Policy Subcommittee",SSFI
+SSFI11,Taxation and IRS Oversight Subcommittee,SSFI
+SSFR12,"International Development and Foreign Assistance, Economic Affairs, International Environmental Protection, and Peace Corps",SSFR
+SSFR13,"International Operations and Organizations, Human Rights, Democracy, and Global Women's Issues",SSFR
+SSFR09,Africa and Global Health Policy Subcommittee,SSFR
+SSFR01,Europe and Regional Security Cooperation Subcommittee,SSFR
+SSFR02,"East Asia, the Pacific, and International Cybersecurity Policy",SSFR
+SSFR07,"Near East, South Asia, Central Asia, and Counterterrorism",SSFR
+SSFR06,"Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues",SSFR
+SSFR14,"State Department and USAID Management, International Operations, and Bilateral International Development",SSFR
+SSFR15,"Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy",SSFR
+SSHR09,Children and Families,SSHR
+SSHR11,Employment and Workplace Safety Subcommittee,SSHR
+SSHR12,Primary Health and Retirement Security,SSHR
+SSGA01,Investigations Subcommittee,SSGA
+SSGA15,Financial and Contracting Oversight,SSGA
+SSGA17,"Emergency Management, Intergovernmental Relations, and the District of Columbia",SSGA
+SSGA16,the Efficiency and Effectiveness of Federal Programs and the Federal Workforce,SSGA
+SSGA19,Regulatory Affairs and Federal Management,SSGA
+SSGA18,Federal Spending Oversight and Emergency Management,SSGA
+SSGA20,Emerging Threats and Spending Oversight Subcommittee,SSGA
+SSGA22,Government Operations and Border Management Subcommittee,SSGA
+SSJU01,"Competition Policy, Antitrust, and Consumer Rights",SSJU
+SSJU04,"Immigration, Citizenship, and Border Safety Subcommittee",SSJU
+SSJU22,Criminal Justice and Counterterrorism Subcommittee,SSJU
+SSJU21,Constitution Subcommittee,SSJU
+SSJU25,"Federal Courts, Oversight, Agency Action, and Federal Rights",SSJU
+SSJU26,Intellectual Property Subcommittee,SSJU
+SSJU28,"Privacy, Technology, and the Law Subcommittee",SSJU
+SSJU27,Human Rights and the Law,SSJU
+HSWM03,Worker and Family Support,HSWM
+HSWM06,Oversight,HSWM
+HSWM05,Select Revenue Measures,HSWM
+HSWM01,Social Security,HSWM
+HSWM04,Trade,HSWM
+HSIG06,Defense Intelligence and Warfighter Support,HSIG
+HSIG09,Oversight and Investigations,HSIG
+HSIG05,"Counterterrorism, Counterintelligence, and Counterproliferation",HSIG
+HSIG08,Intelligence Modernization and Readiness,HSIG
+HSIG04,Department of Defense Intelligence and Overhead Architecture,HSIG
+HSIG03,Emerging Threats,HSIG
+HSIG02,National Security Agency and Cybersecurity,HSIG
+HSIG01,Central Intelligence Agency,HSIG
+HSIG10,Strategic Technologies and Advanced Research,HSIG
+SSAF13,"Commodities, Risk Management, and Trade Subcommittee",SSAF
+SSAF14,"Conservation, Climate, Forestry, and Natural Resources",SSAF
+SSAF15,Rural Development and Energy,SSAF
+SSAF17,"Livestock, Dairy, Poultry, Local Food Systems, and Food Safety and Security",SSAF
+SSAF16,"Food and Nutrition, Specialty Crops, Organics, and Research",SSAF
+SSAP18,"Labor, Health and Human Services, and Education, and Related Agencies",SSAP
+SSAP16,"Commerce, Justice, Science, and Related Agencies Subcommittee",SSAP
+SSAP22,Energy and Water Development Subcommittee,SSAP
+SSAP20,"State, Foreign Operations, and Related Programs Subcommittee",SSAP
+SSAP14,Homeland Security Subcommittee,SSAP
+SSAP17,"Interior, Environment, and Related Agencies Subcommittee",SSAP
+SSAP24,"Transportation, Housing and Urban Development, and Related Agencies",SSAP
+SSAP08,Legislative Branch Subcommittee,SSAP
+SSAP01,"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP
+SSAP02,Defense Subcommittee,SSAP
+SSAP19,"Military Construction, Veterans Affairs, and Related Agencies",SSAP
+SSAP23,Financial Services and General Government Subcommittee,SSAP
+SSAS16,Strategic Forces Subcommittee,SSAS
+SSAS20,Emerging Threats and Capabilities Subcommittee,SSAS
+SSAS17,Personnel Subcommittee,SSAS
+SSAS13,Seapower Subcommittee,SSAS
+SSAS14,Airland Subcommittee,SSAS
+SSAS15,Readiness and Management Support Subcommittee,SSAS
+SSAS21,Cybersecurity Subcommittee,SSAS
+SSBK04,"Securities, Insurance, and Investment",SSBK
+SSBK09,"Housing, Transportation, and Community Development",SSBK
+SSBK12,Economic Policy Subcommittee,SSBK
+SSBK05,National Security and International Trade and Finance,SSBK
+SSBK08,Financial Institutions and Consumer Protection Subcommittee,SSBK
+SSCM26,"Communications, Technology, Innovation, and the Internet",SSCM
+SSCM27,"Tourism, Competitiveness, and Innovation",SSCM
+SSCM32,Transportation and Safety,SSCM
+SSCM31,Security,SSCM
+SSCM29,"Manufacturing, Trade, and Consumer Protection",SSCM
+SSCM28,Aviation and Space,SSCM
+SSCM30,"Science, Oceans, Fisheries, and Weather",SSCM
+HSHA01,Elections,HSHA
+HSHA08,Elections,HSHA
+HSAG03,"Nutrition, Oversight, and Department Operations",HSAG
+HSAG16,General Farm Commodities and Risk Management,HSAG
+HSAG15,Conservation and Forestry,HSAG
+HSAG22,"Commodity Exchanges, Energy, and Credit",HSAG
+HSAG29,Livestock and Foreign Agriculture,HSAG
+HSAG14,"Biotechnology, Horticulture, and Research",HSAG
+HSAP01,"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",HSAP
+HSAP19,"Commerce, Justice, Science, and Related Agencies",HSAP
+HSAP02,Defense,HSAP
+HSAP10,"Energy and Water Development, and Related Agencies",HSAP
+HSAP23,Financial Services and General Government,HSAP
+HSAP15,Homeland Security,HSAP
+HSAP06,"Interior, Environment, and Related Agencies",HSAP
+HSAP07,"Labor, Health and Human Services, Education, and Related Agencies",HSAP
+HSAP24,Legislative Branch,HSAP
+HSAP18,"Military Construction, Veterans Affairs, and Related Agencies",HSAP
+HSAP04,"State, Foreign Operations, and Related Programs",HSAP
+HSAP20,"Transportation, and Housing and Urban Development, and Related Agencies",HSAP
+HSAS25,Tactical Air and Land Forces,HSAS
+HSAS02,Military Personnel,HSAS
+HSAS03,Readiness,HSAS
+HSAS28,Seapower and Projection Forces,HSAS
+HSAS29,Strategic Forces,HSAS
+HSAS26,Intelligence and Special Operations,HSAS
+HSAS35,"Cyber, Innovative Technologies, and Information Systems",HSAS
+HSED14,"Early Childhood, Elementary, and Secondary Education",HSED
+HSED02,"Health, Employment, Labor, and Pensions",HSED
+HSED13,Higher Education and Workforce Investment,HSED
+HSED10,Workforce Protections,HSED
+HSED07,Civil Rights and Human Services,HSED
+HSIF17,Consumer Protection and Commerce,HSIF
+HSIF16,Communications and Technology,HSIF
+HSIF03,Energy,HSIF
+HSIF14,Health,HSIF
+HSIF02,Oversight and Investigations,HSIF
+HSIF18,Environment and Climate Change,HSIF
+HSBA16,"Investor Protection, Entrepreneurship, and Capital Markets",HSBA
+HSBA15,Consumer Protection and Financial Institutions,HSBA
+HSBA04,"Housing, Community Development, and Insurance",HSBA
+HSBA09,Oversight and Investigations,HSBA
+HSBA01,"National Security, International Development, and Monetary Policy",HSBA
+HSBA13,Diversity and Inclusion,HSBA
+HSFA16,"Africa, Global Health, and Global Human Rights",HSFA
+HSFA05,"Asia, the Pacific, Central Asia, and Nonproliferation",HSFA
+HSFA14,"Europe, Energy, the Environment, and Cyber",HSFA
+HSFA17,"International Development, International Organizations, and Global Corporate Social Impact",HSFA
+HSFA13,"Middle East, North Africa, and Global Counterterrorism",HSFA
+HSFA07,"Western Hemisphere, Civilian Security, Migration, and International Economic Policy",HSFA
+HSHM11,"Border Security, Facilitation, and Operations",HSHM
+HSHM12,"Emergency Preparedness, Response, and Recovery",HSHM
+HSHM08,"Cybersecurity, Infrastructure Protection, and Innovation",HSHM
+HSHM05,Intelligence and Counterterrorism,HSHM
+HSHM09,"Oversight, Management, and Accountability",HSHM
+HSHM07,Transportation and Maritime Security,HSHM
+HSII06,Energy and Mineral Resources,HSII
+HSII22,"Fisheries, Wildlife, Oceans and Insular Affairs",HSII
+HSII10,"National Parks, Forests, and Public Lands",HSII
+HSII13,"Water, Oceans, and Wildlife",HSII
+HSII15,Oversight and Investigations,HSII
+HSII24,For Indigenous Peoples of the United States,HSII
+HSGO25,Information Technology,HSGO
+HSGO24,Government Operations,HSGO
+HSGO06,National Security,HSGO
+HSGO28,Environment,HSGO
+HSGO27,"Healthcare, Benefits, and Administrative Rules",HSGO
+HSGO29,Intergovernmental Affairs,HSGO
+HSGO02,Civil Rights and Civil Liberties,HSGO
+HSGO05,Economic and Consumer Policy,HSGO
+HSRU02,Legislative and Budget Process,HSRU
+HSRU04,Rules and Organization of the House,HSRU
+HSRU05,Expedited Procedures,HSRU
+HSSY20,Energy,HSSY
+HSSY21,Investigations and Oversight,HSSY
+HSSY16,Space and Aeronautics,HSSY
+HSSY15,Research and Technology,HSSY
+HSSY18,Environment,HSSY
+HSSM23,Contracting and Infrastructure,HSSM
+HSSM24,"Oversight, Investigations, and Regulations",HSSM
+HSSM25,"Underserved, Agricultural, and Rural Business Development",HSSM
+HSSM27,"Economic Growth, Tax, and Capital Access",HSSM
+HSSM26,"Innovation, Entrepreneurship, and Workforce Development",HSSM
+HSJU10,"The Constitution, Civil Rights, and Civil Liberties",HSJU
+HSJU03,"Courts, Intellectual Property, and the Internet",HSJU
+HSJU08,"Crime, Terrorism and Homeland Security",HSJU
+HSJU01,Immigration and Citizenship,HSJU
+HSJU05,"Antitrust, Commercial, and Administrative Law",HSJU
+HSPW05,Aviation,HSPW
+HSPW07,Coast Guard and Maritime Transportation,HSPW
+HSPW13,"Economic Development, Public Buildings, and Emergency Management",HSPW
+HSPW12,Highways and Transit,HSPW
+HSPW14,"Railroads, Pipelines, and Hazardous Materials",HSPW
+HSPW02,Water Resources and Environment,HSPW
+HSVR09,Disability Assistance and Memorial Affairs,HSVR
+HSVR10,Economic Opportunity,HSVR
+HSVR03,Health,HSVR
+HSVR08,Oversight and Investigations,HSVR
+HSVR11,Technology Modernization,HSVR
+HSWM02,Health,HSWM
